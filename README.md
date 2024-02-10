@@ -1,4 +1,4 @@
-All of the equations and values used in the model are taken from the "Small Unmanned Aircraft Theory and Practice by Randal W. Beard, Timothy W. McLain
+All of the equations and values used in the model are taken from the "Small Unmanned Aircraft Theory and Practice by Randal W. Beard, Timothy W. McLain"
 
 
 %%%%%%%%%%%%%%%%%%%%%%% Airframe Parameters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

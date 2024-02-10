@@ -4,10 +4,15 @@ All of the equations and values used in the model are taken from the "Small Unma
 %%%%%%%%%%%%%%%%%%%%%%% Airframe Parameters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 m=13.5; % mass(kg)
+
 Ix=0.8244; % Inertia along x axis (kg*m^2) 
+
 Iy=1.135; % Inertia along y axis (kg*m^2) 
+
 Iz=1.759; % Inertia along z axis (kg*m^2) 
+
 Ixy=0; % Inertia on xy plane (kg*m^2) 
+
 Iyz=0; % Inertia on yz plane (kg*m^2) 
 Ixz=0.1204; % Inertia on xz plane (kg*m^2) 
 I=[Ix -Ixy -Ixz;-Ixy Iy -Iyz;-Ixz -Iyz Iz]; % Inertia Matrix
